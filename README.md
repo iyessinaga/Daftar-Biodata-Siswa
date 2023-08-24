@@ -1,9 +1,10 @@
-Daftar Biodata Siswa
+Daftar-Biodata-Siswa
 ==
-Daftar biodata siswa Dicoding Academy
+Daftar biodata Siswa Dicoding Academy
 --
-*Contoh teks yang akan dicetak miring*
-- Contoh List 1
-- Contoh List 2
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
 
 Ini adalah contoh isi file README.md yang sudah dibuat oleh iyessinaga dengan menggunakan fitur Heading, Sub-Heading, Italic, dan List
